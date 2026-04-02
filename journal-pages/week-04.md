@@ -46,8 +46,69 @@ The model’s response:It gave me a simple P5.js sketch, visualizing the dietary
 
 - **Ability:** It can write basic code and explain concepts, but lacks the depth and nuances of large cloud models.
 
+#### Activity 2：
+I used NotebookLM with my University Google account to create a research notebook about my work so far.
 
+**1. Build my notebook**
 
+I added the following sources:
+- My Making Journal: `https://ywu929-droid.github.io/make-journal/`
+- Nathalie Miebach: `https://nathaliemiebach.com`
+- Open‑Meteo API: `https://open-meteo.com`
+**2. Frame my research**
+
+I created a file called `context.md` with three sentences:
+
+> I found the interactive data portrait experiment most interesting because it let me turn hand‑drawn data into something people could explore. I keep coming back to the idea that data can be personal and imperfect, not just numbers and charts. I am curious about how AI could help generate physical artefacts from data, like 3D prints or woven structures.
+
+I added this file as a source.
+
+**3. Explore in the chat**
+“If my sources were documentation for a design project, what would the final outcome be?”
+“What do my sources suggest I care about?”
+“Identify a provocation hidden in my sources”
+“What would someone who disagrees with the ideas in my sources argue?”
+
+![alt text](image-29.png)
+
+**The model's response:**
+
+Based on the documentation provided, here are the insights regarding your design project:
+
+**The Final Outcome**:
+
+If these sources are documentation for a design project, the final outcome would likely be a **physical, data-driven artefact**—such as a 3D print or a woven structure—that translates complex environmental data into a tangible form. This project is being developed within the context of a course called "Designing with Data" (DES240). The final result would be documented through a **minimal static website** hosted on GitHub Pages, showcasing a 12-week progression from initial experiments and data portraits to a final "Showcase". Influenced by artists like Nathalie Miebach, the outcome would bridge the gap between digital data (such as weather forecasts) and physical sculpture.
+
+**What You Care About**:
+
+The sources suggest your values as a designer include:
+- **The Materiality of Information:** You are less interested in standard "numbers and charts" and more focused on how data can be "personal and imperfect". 
+-  **Open-Source Ethics and Accessibility:** You value tools that are "free," "open-source," and "user-friendly," such as the Open-Meteo API which requires no API key. You also prefer workflows that lower technical barriers, such as using GitHub Desktop to avoid the terminal.
+-  **Documentation as Process:** By maintaining a "Making Journal" with weekly entries, you demonstrate that the **process of making** is as important as the final product.
+- **Physicality in a Digital Age:** You are curious about how high-tech tools like AI can generate "physical artefacts," moving data out of the screen and into the real world.
+
+**A Hidden Provocation**:
+
+A provocation hidden in these sources is that **precision is not the same as truth.** While the Open-Meteo source prides itself on "remarkable precision" and "high resolution" data, your personal reflection suggests that data is most "interesting" when it is "hand-drawn," "personal," and "imperfect". The provocation is that by making data "perfect" and purely digital, we actually lose its human meaning.
+
+**The Counter-Argument**
+Someone who disagrees with the philosophy in these sources might argue that:
+- **Subjectivity Ruins Data:** They would argue that treating data as "imperfect" or "personal" undermines its scientific utility; data should remain an objective, neutral record of reality.
+- **Function Over Form:** A critic might suggest that turning data into a "woven structure" or 3D print is an **inefficient "black box"**. They would argue that a clear, readable JSON output or a standard graph is superior because it allows for immediate, accurate analysis.
+-  **Tool Over-Engineering:** They might argue that using a developer-centric platform like GitHub to host a simple journal is an unnecessary layer of complexity when more streamlined, non-technical blogging tools exist.
+
+**4. Generate the Audio Overview**
+
+I generated the Audio Overview and listened with headphones.
+
+**What surprised me:**  
+The AI hosts picked up on the connection between my hand‑drawn food portrait and Nathalie Miebach’s woven data sculptures, which I had not explicitly stated. They framed my work as part of a “data physicalisation” tradition.
+
+**What it got wrong:**  
+It said I had used a 3D printer for my interactive portrait, which I did not. It also pronounced “p5.js” as “p five dot j s” instead of “p five js”.
+
+**How it felt:**  
+Hearing my work discussed in a podcast format felt strange but also validating. It made me realise how much material I had already produced in just three weeks. The tone was enthusiastic, almost like a real podcast, which made it engaging but also a bit exaggerated.
 
 ### Independent Study: AI-Assisted Data Exploration
 
@@ -346,12 +407,12 @@ D’Ignazio, C., & Klein, L. F. (2020). *Data Feminism*. MIT Press.
 
 Mikaere, K. (2024). Māori data sovereignty [Talk]. DES240 course materials.
 
-OpenAI. (2026). *ChatGPT* (Apr 1 version) [Large language model]. https://chat.openai.com
+OpenAI. (2026). *ChatGPT* (Apr 1 version) [Large language model]. `https://chat.openai.com`
 
-Google. (2026). *Gemini* (Apr 1 version) [Large language model]. https://gemini.google.com
+Google. (2026). *Gemini* (Apr 1 version) [Large language model]. `https://gemini.google.com`
 
-Google. (2026). *NotebookLM*. https://notebooklm.google.com
+Google. (2026). *NotebookLM*. `https://notebooklm.google.com`
 
-Ollama. (2026). *qwen3:1.7b* [Local AI model]. https://ollama.com
+Ollama. (2026). *qwen3:1.7b* [Local AI model]. `https://ollama.com`
 
-Wellington City Council. (2024). *Wellington Urban Forest Dataset*. Retrieved from https://data.govt.nz
+Wellington City Council. (2024). *Wellington Urban Forest Dataset*. Retrieved from`https://data.govt.nz`
