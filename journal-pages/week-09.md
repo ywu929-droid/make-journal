@@ -6,10 +6,20 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## In-class activities
+### Project Statement: First Draft
+#### Case study
+![alt text](image-56.png)
+- **What are the data sources used in this work?**
+>both cybersyn and divlab
+- **What is the future scenario it addresses?**
+>to deskill ,automate or outsource the activities of workers while also obscuring accountablility for decision makers
+- **What does the statement argue about data and power?**
+>In western centers of power, computation and AI are shaped to deskill workers and obscure accountability.
+- **What might be the intended impact, and is this included in the statement?**
+>selecto candidates and job assignments from a pool of 30 million americans.
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
-
+###
 ## Images & Media
 
 *Use the format below to embed images from your assets folder:*
