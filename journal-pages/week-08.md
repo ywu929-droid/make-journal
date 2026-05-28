@@ -50,6 +50,15 @@ First and foremost, the most crucial feedback: This point was mentioned both in 
 ### Project Developmemt
 #### Initial Idea
 ![alt text](image-53.png)
+
+**Important Elements**
+- Timeline — 7 days in a week
+- Bento box compartments — 3 meals a day
+- Number of icons — number of people eating
+- Icon color — taste of the meal
+- Box color — taste of the meal
+- Each icon — different food, each with its own score
+- Final score — health rating and health suggestion
 #### Digital try
 This was my digital ttempt , but after trying it out, I found that there were some problems with it. There are also some issues with the code, and so are the overall problems: the graphics jump around randomly and overlap, and the overall picture is messy and garish.
 
