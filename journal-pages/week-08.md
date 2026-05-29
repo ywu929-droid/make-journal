@@ -19,7 +19,7 @@ I also continued improving both the concept and technical side of the project. I
 *cover page*
 ![alt text](image-47.png)
 *Current project status*
-![alt text](image-48.png)
+![alt text](image-72.png)
 *visual research*
 ![alt text](image-49.png)
 *key development*

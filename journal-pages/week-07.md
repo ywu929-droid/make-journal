@@ -111,7 +111,7 @@ I have prepared a draft of 5 slides:
 2. **Current project status**What i am exploring ,what it includ and what I am experimenting with.
 ![alt text](image-42.png)
 3. **visual resreach**: some images that inspire me.
-![alt text](image-43.png)
+![alt text](image-73.png)
 4. **key development**: My major progress is that I have changed the form. The previous one was too boring, too simple and too plain.
 ![alt text](image-44.png)
 5. **What I hope to get from feedback**: Does the bento structure clearly convey the concept of visualization, and should I make it more tangible.
