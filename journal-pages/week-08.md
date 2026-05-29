@@ -7,6 +7,9 @@ layout: default
 [← Back to Home](../index.md)
 
 ## In-class Activites
+This week, I focused on developing the meaning and direction of my food-tracking visualisation project. During the progress presentation and group discussion, I received important feedback that made me realise my project was still only functioning as a dataset and lacked a clear purpose or impact. This pushed me to rethink what the project could actually do for users, such as encouraging healthier eating habits and providing health advice based on food data.
+
+I also continued improving both the concept and technical side of the project. I refined the bento box system by adding food categories, scoring systems, and health suggestions, while also experimenting with a digital p5.js version of the visualisation. Although the current digital outcome still has problems with layout, overlapping graphics, and overall readability, this process helped me better understand the strengths and weaknesses of the design and gave me clearer directions for future development.
 ### Progress Reports
 #### My Sketch
 ![alt text](image-51.png)
@@ -42,14 +45,15 @@ I conducted critical thinking on my partner's work called "moments of joy".
 >/If it were me, I would try to combine data and numerical elements to add some sense of interaction. For example, using electronic ones to record data and the like.
 
 **This is the feedback and design proposal given to me by my partner**
-![alt text](image-52.png)
+![alt text](image-63.png)
+*Images with adjusted proportions by AI*
 
 ## Independent Study
 ### Reflective Summary（326 words）
 First and foremost, the most crucial feedback: This point was mentioned both in the speech and in the sharing with my partner, meaning that this is just one of my datasets. I need to think about what this dataset can do? What impact will it have? How can we help the users? I didn't give it any meaning. One of the group members gave me a suggestion that I could consider whether I wanted to use it to explore healthy eating or for other purposes? All of these are worth considering. My partner also proposed a plan to transform this into a combination of numbers and physical entities, such as making a calendar table. However, this is not suitable for me. Maybe a digital one would be more appropriate. But other suggestions inspired me. Previously, I only focused on the content of the dataset and never considered its significance. So then I began to think and made some decisions. First of all, I figured out that the significance I would endow this with is to make it a healthy diet advice system, and I will provide a whole week's worth of data. And several crucial elements have been added. The first one is different types of food, which serve as the basis for judging a healthy diet. For instance, this will roughly be divided into three categories: meat, vegetables, and unhealthy food. Each category has its own score, some with bonus points and some with deduction points. Then these foods will be tallied and scored. The second point is that I have added health advice, providing health-related suggestions based on daily scores. The impact of this on my future projects is as follows: Firstly, this data has gained significance. It is not merely a dataset, nor is it just some simple graphs and a single piece of data. Moreover, different types of food have different ratings, and based on these ratings, people can receive health advice.
 ### Project Developmemt
 #### Initial Idea
-![alt text](image-53.png)
+![alt text](image-64.png)
 
 **Important Elements**
 - Timeline — 7 days in a week
@@ -500,7 +504,8 @@ Although this one didn't look well, the progress is that I'm trying to convert i
 ## AI Usage Statement
 During this week’s project development, I used the following AI tools to assist my work:
 
-- **ChatGPT (OpenAI)** – I used it to help debug my p5.js code and suggest layout improvements for the bento box visualization.
+- **ChatGPT (OpenAI)** – I used it to help debug my p5.js code and suggest layout improvements for the bento box visualization.And it helped me adjust the photographed sketch into a clearer 3:4 composition, improving the layout and readability of the handwritten notes so the concept development process could be documented more clearly in my journal and presentation materials.
+
 - **Claude (Anthropic)** – I used it to help simplify the drawing logic and generate a cleaner visual layout for the digital attempt.
 - **DeepSeek (text assistant)** – I used it to refine my reflective summary and to help structure this AI usage statement.
 

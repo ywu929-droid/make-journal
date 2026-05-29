@@ -7,11 +7,16 @@ layout: default
 [← Back to Home](../index.md)
 
 ## In-Class Activities
+This week, I continued developing my food-tracking visualisation project by exploring new visual forms and reflecting on feedback from classmates and the teacher. Through concept sketches and brainstorming, I realised that my original design was too simple and did not clearly represent the complexity of the dataset.
 
-### 1. Concept Sketches 
+As a result, I experimented with different food-related metaphors, including pizza and bento boxes, and finally decided to use the bento box structure because it can better represent breakfast, lunch, and dinner separately. I also reflected on whether the project should become a physical object or remain digital, and decided to continue focusing on a digital interactive version.
+
+Outside of class, I further developed my ideas, improved my understanding of p5.js, and prepared presentation slides for feedback. One of the most important insights this week was realising that the project needs a stronger purpose and meaning, rather than only functioning as a dataset visualisation.
+###  Concept Sketches 
 
 **Initial sketch idea**
-![alt text](image-33.png)
+![alt text](image-61.png)
+*An image with the proportion and direction adjusted by AI*
 
 #### Post-it Feedback Received
 
@@ -31,7 +36,7 @@ As classmates and the teacher walked around the room, the main feedback I receiv
 
 ---
 
-### 2. Making Sprint 
+###  Making Sprint 
 #### Revised Sketch Direction
 
 Based on the feedback, I decided to experiment with **food as a core visual metaphor**, because my data is related to food. 
@@ -55,7 +60,7 @@ At first, I wanted to make a pizza, but I found that if I used pizza, it wouldn'
 
 ---
 
-### 3. “What If” Variations 
+###  “What If” Variations 
 **Format**: Pair work — propose 3 “what if” questions to each other.
 
 #### Three “What If” questions I received and my answers
@@ -66,12 +71,12 @@ At first, I wanted to make a pizza, but I found that if I used pizza, it wouldn'
 | 2. What if there is nothing good from the day? | Then the corresponding circle (or pizza slice) would turn black, representing "empty" or "no positive outcome". |
 | 3. What if the digital version doesn't work well? | I would fall back to a physical version, but my current priority is to make the digital version work well first. |
 
-![alt text](image-40.png)
+![alt text](image-62.png)
+*Images with adjusted proportions by AI*
 
 #### One variation I chose to explore further
 
-I chose **Question 1** as a direction:  
-**“ What if it is a physical version?”**
+I chose Question 1 as a direction **“ What if it is a physical version?”**
 
 ##### Differences and new opportunities：
 
@@ -87,7 +92,7 @@ The questions raised by my classmates were mainly about physical or digital. I h
 
 ## Independent Study Progress (after class)
 
-### 1. Project Development & Skill Building
+###  Project Development & Skill Building
 
 Based on the skills roadmap from Week 6, I focused on:
 
@@ -97,7 +102,7 @@ Based on the skills roadmap from Week 6, I focused on:
 - **Data Preparation:** This week, I will refine my bento box data, record the data for the week, and figure out what data to use and exactly how to present it.
 
 
-### 2. Progress Report (prepare for next week)
+###  Progress Report (prepare for next week)
 
 I have prepared a draft of 5 slides:
 
@@ -130,5 +135,7 @@ In completing this week’s journal entry, I used AI (ChatGPT / similar) for the
 - **Language and clarity**: I refined sentence structures and improved readability of my reflections and activity descriptions.
 - **Organisation**: I asked AI to help format the markdown headings, tables, and lists according to the course journal template.
 - **Idea articulation**: I discussed my “what if” variations and the shift from pizza to bento box with AI, which helped me clarify my reasoning and document my decision‑making process.
+- **Image formatting and presentation**: The AI helped me adjust the layout and proportions of my photographed handwritten notes into a cleaner 3:4 composition, making the text easier to read and more suitable for documentation and presentation in my weekly journal.
+
 
 All conceptual development, sketches, data preparation, technical coding, and final decisions remain my own. The feedback from peers and the teacher, as well as my personal reflections, are reported faithfully based on my actual in‑class experience.
