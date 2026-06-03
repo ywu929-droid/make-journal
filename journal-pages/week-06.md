@@ -131,7 +131,7 @@ Based on the data I actively recorded last week, I drew a sketch, which roughly 
 
 This journal entry and the accompanying in‑class activities were developed with the support of a generative AI tool: **ChatGPT (OpenAI, GPT‑4 model)**. The AI was used as a thinking and writing assistant in the following specific ways:
 
-- **Language and structure**: The AI helped me rephrase and organise my notes into clear, logically flowing sections, and convert the content into well‑formatted Markdown suitable for VS Code and GitHub Pages.
+- **Language and structure**: The AI helped me rephrase and organise my notes into clear, logically flowing sections.
 - **Clarifying key concepts**: I asked the AI to explain terms such as “data structure” and to help me articulate the relationship between my subjective data fields (mood, satisfaction, social context) and their planned visual encodings (size, colour, layering).
 - **Image editing and presentation**: The AI helped me rotate and straighten my photographed sketch so the handwritten text could be read clearly and presented in a cleaner, more professional way for documentation and presentation purposes.
 

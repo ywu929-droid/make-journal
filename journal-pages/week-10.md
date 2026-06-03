@@ -7,6 +7,8 @@ layout: default
 [← Back to Home](../index.md)
 
 ## In-class Activities
+
+This week I presented my progress , sharing slides that covered my current project status, a draft project statement, key developments, visual research, and feedback questions. I also took part in the gallery walk on Padlet, leaving comments and liking other students' work. The main feedback I received highlighted that my project currently only allows users to view my personal dataset rather than actively participate. This prompted me to rethink the interaction design. During independent study, I developed the idea of an interactive bento box system that lets users record their own meals, select variables like mood and taste, and receive a health score with personalised advice. I built a new p5.js model to support this feature, moving the project from a viewer-only experience to one that invites active user participation.
 ### Progress Reports
 First of all, this is the content of my slides.
 1.cover page

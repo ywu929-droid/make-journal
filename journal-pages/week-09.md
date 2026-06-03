@@ -565,7 +565,6 @@ What I gained from this experience is that, after many attempts and experiments,
 During this week’s project development, I used the following AI tools:
 
 - **ChatGPT (OpenAI)** – to help debug my p5.js code, suggest layout improvements for the bento box visualization, and teach me step by step how to create a website and embed the p5.js model into it.
-- **Claude (Anthropic)** – to help simplify the drawing logic and generate a cleaner visual layout for my digital attempt.
 - **DeepSeek (text assistant)** – to refine my reflective summary and help structure this AI usage statement.
 
 All AI‑generated code snippets, website structure guidance, and textual suggestions were reviewed and integrated by me. The final design, concept, and critical decisions remain my own original work.
