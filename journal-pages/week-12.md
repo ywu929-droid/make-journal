@@ -30,7 +30,7 @@ Finally, I created a food diary section to show the original data before it was 
 ## Project Statement
 **Inside The Bento Box**
 
-Inside My Bento Box is a project that looks at how the food we eat's connected to our feelings and our health. It takes the information from a food diary. Turns it into pictures and colors like a Bento Box. The project uses shapes and colors to show us things about our habits that we might not notice otherwise.
+Inside My Bento Box is a project that looks at how the food we eat connected to our feelings and our health. It takes the information from a food diary. Turns it into pictures and colors like a Bento Box. The project uses shapes and colors to show us things about our habits that we might not notice otherwise.
 
 You can see the project on a website that takes you through the process. There is a part where you can see the food diary and another part that explains what the different shapes and colors mean. Then you can see how all this information is put together in a Bento Box picture. You can look at how the food we eat is connected to how we feel and our health.
 
