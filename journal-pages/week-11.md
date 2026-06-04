@@ -67,8 +67,9 @@ After having the above ideas, the first step is to visualize the contents contai
 *I created this Figma myself. The three coloured bento box images were generated using Gemini, and the small icons (e.g. smiley faces) are sourced from Flaticon.*
 
 In addition, explanatory text was written to describe how to convert food diaries into data and how the bento box system conveys health and emotional patterns. These added contents make it easier for viewers who are not familiar with visual language to understand this project.
-
-Finally, I continued to improve the overall structure of the website, focusing on telling stories rather than simply presenting data. This project now better explains the process from data collection to visualization and reflection, helping the audience understand the insights of design decisions and data revelation.
+![alt text](image-94.png)
+*a screenshot of what i add about text*
+Then I continued to improve the overall structure of the website, focusing on telling stories rather than simply presenting data. This project now better explains the process from data collection to visualization and reflection, helping the audience understand the insights of design decisions and data revelation.
 
 For the food diary, since it needs to be placed on the website in a consistent style, if it were my own handwritten manuscript, it would look too informal. Therefore, I used Ai to edit this picture.
 ![alt text](image-92.png)
@@ -76,6 +77,22 @@ For the food diary, since it needs to be placed on the website in a consistent s
 
 ![alt text](image-93.png)
 *I modified the proportion of the picture myself*
+### Final Developmet
+After finishing the initial build, I stepped back and reviewed my project again. I felt it was still too simple, so I came up with a new idea. I wanted to create a separate page accessible via a button, and the content of that page would be about "My Personal Bento Box." On this page, users would see a beautifully designed bento box generated from the choices they made in the p5.js interactive, along with more detailed, customized health advice. First, having a separate page prevents the website from feeling too basic. Second, the information displayed on that page makes the experience more immersive and engaging for the user.
+
+![alt text](image-96.png)
+*a screenshot of what i add*
+![alt text](image-97.png)
+*a screenshot of what i add*
+
+I continuously refined my code during this process. Adding the separate page itself went relatively smoothly — it only took two tries to get it working. However, getting the content of that page to display properly was consistently problematic. For instance, the page content wouldn't show up, the page couldn't render the graphics, and it wouldn't sync with the data from the previous p5.js model. After many, many attempts, I finally got the page to display its content, link up with the previous model's data, and start generating the drawings.
+![alt text](image-98.png)
+*a screenshot of the bento box drawn in the pagination*
+After that step was completed, I noticed that the drawings on the page looked ugly. So I continued refining the code to generate a more exquisite bento box, aiming to give users a much better visual experience.
+
+Finally, I added another feature, which is the ability to save as an image. This allows me to save my own exclusive bento box as a card, providing users with some interactive and commemorative value, making it more meaningful
+![alt text](image-99.png)
+*a screenshot of what i add*
 ## AI Usage Statement
 
 During this week’s work I used the following AI tools:
