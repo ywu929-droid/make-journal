@@ -15,7 +15,7 @@ Outside of class, I further developed my ideas, improved my understanding of p5.
 ###  Concept Sketches 
 
 **Initial sketch idea**
-![alt text](image-61.png)
+![alt text](image-88.png)
 *An image with the proportion and direction adjusted by AI*
 
 #### Post-it Feedback Received
@@ -71,7 +71,7 @@ At first, I wanted to make a pizza, but I found that if I used pizza, it wouldn'
 | 2. What if there is nothing good from the day? | Then the corresponding circle (or pizza slice) would turn black, representing "empty" or "no positive outcome". |
 | 3. What if the digital version doesn't work well? | I would fall back to a physical version, but my current priority is to make the digital version work well first. |
 
-![alt text](image-62.png)
+![alt text](image-87.png)
 *Images with adjusted proportions by AI*
 
 #### One variation I chose to explore further
@@ -135,7 +135,7 @@ In completing this week’s journal entry, I used AI (ChatGPT / similar) for the
 - **Language and clarity**: I refined sentence structures and improved readability of my reflections and activity descriptions.
 - **Organisation**: I asked AI to help format the markdown headings, tables, and lists according to the course journal template.
 - **Idea articulation**: I discussed my “what if” variations and the shift from pizza to bento box with AI, which helped me clarify my reasoning and document my decision‑making process.
-- **Image formatting and presentation**: The AI helped me adjust the layout and proportions of my photographed handwritten notes into a cleaner 3:4 composition, making the text easier to read and more suitable for documentation and presentation in my weekly journal.
+- **Image formatting and presentation**: The AI helped me adjust the layout and proportions of my photographed handwritten notes into a cleaner 4:3 composition, making the text easier to read and more suitable for documentation and presentation in my weekly journal.
 
 
 All conceptual development, sketches, data preparation, technical coding, and final decisions remain my own. The feedback from peers and the teacher, as well as my personal reflections, are reported faithfully based on my actual in‑class experience.

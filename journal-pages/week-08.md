@@ -12,7 +12,7 @@ This week, I focused on developing the meaning and direction of my food-tracking
 I also continued improving both the concept and technical side of the project. I refined the bento box system by adding food categories, scoring systems, and health suggestions, while also experimenting with a digital p5.js version of the visualisation. Although the current digital outcome still has problems with layout, overlapping graphics, and overall readability, this process helped me better understand the strengths and weaknesses of the design and gave me clearer directions for future development.
 ### Progress Reports
 #### My Sketch
-![alt text](image-51.png)
+![alt text](image-89.png)
 *The sketch I drew for the conception*
 #### My power point
 ![alt text](image-46.png)

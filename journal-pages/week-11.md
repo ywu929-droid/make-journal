@@ -42,9 +42,11 @@ After the conversation, I made these reflections on my own answers.
   
   >The No.4 question is most difficult to answer.Because I may not dearly understand want does this mean.
 
-![alt text](image-78.png)
+![alt text](image-90.png)
+*what i wrote about reflection*
 ### Showcase Planning
-![alt text](image-79.png)
+![alt text](image-91.png)
+*a screenshot that shows my name on miro*
 
 ## Independent Study
 As the project's progress is coming to an end, this week's independent study will also be pushed into the final refinement stage of my project. And in the final moments, what I need to do is not only to refine my project, but also to carefully consider the content of the consultation for the studio.
@@ -69,9 +71,11 @@ In addition, explanatory text was written to describe how to convert food diarie
 Finally, I continued to improve the overall structure of the website, focusing on telling stories rather than simply presenting data. This project now better explains the process from data collection to visualization and reflection, helping the audience understand the insights of design decisions and data revelation.
 
 For the food diary, since it needs to be placed on the website in a consistent style, if it were my own handwritten manuscript, it would look too informal. Therefore, I used Ai to edit this picture.
-![alt text](image-83.png)
+![alt text](image-92.png)
 *A picture modified and edited by ai.*
 
+![alt text](image-93.png)
+*I modified the proportion of the picture myself*
 ## AI Usage Statement
 
 During this week’s work I used the following AI tools:
